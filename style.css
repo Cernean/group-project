@@ -53,4 +53,9 @@ main h2 {
     color: hotpink;
     background-color: black;
     padding: 3px;
+}.my-style {
+    color: blue;
+    background-color: whitesmoke;
+    padding: 3px;
 }
+
